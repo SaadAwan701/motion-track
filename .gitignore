@@ -1,0 +1,17 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python Cache & Build Artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local Tests & IDE Settings
+.vscode/
+.idea/
+.pytest_cache/
+*.mp4
+*.avi
